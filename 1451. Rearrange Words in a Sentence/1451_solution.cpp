@@ -41,7 +41,6 @@ public:
 
 void PrintResult(const string &expect, const string &actual)
 {
-    std::cout << expect << " | " << actual << "\n";
     std::cout << (expect == actual ? "Correct" : "Wrong") << "\n";
 }
 
