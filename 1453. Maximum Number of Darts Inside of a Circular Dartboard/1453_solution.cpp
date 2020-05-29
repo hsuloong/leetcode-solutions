@@ -115,14 +115,5 @@ int main(int argc, char *argv[])
     PrintResult(result3, solution1453.numPoints(testCase3.first, testCase3.second));
     PrintResult(result4, solution1453.numPoints(testCase4.first, testCase4.second));
     std::cout << "===========EndFunc1Test===========\n";
-
-    // std::cout << "\n\n";
-
-    // std::cout << "==========BeginFunc2Test==========\n";
-    // PrintResult(result1, solution1452.numPoints(testCase1));
-    // PrintResult(result2, solution1452.numPoints(testCase2));
-    // PrintResult(result3, solution1452.numPoints(testCase3));
-    // PrintResult(result4, solution1452.numPoints(testCase4));
-    // std::cout << "===========EndFunc2Test===========\n";
     return 0;
 }
