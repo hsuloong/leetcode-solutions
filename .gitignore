@@ -342,3 +342,6 @@ MigrationBackup/
 
 # For Visual Studio Code
 .vscode/
+
+# Fro GitBook
+_book/
