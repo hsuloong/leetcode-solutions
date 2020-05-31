@@ -55,4 +55,3 @@ int main(int argc, char *argv[])
     std::cout << "===========EndFunc2Test===========\n";
     return 0;
 }
-
